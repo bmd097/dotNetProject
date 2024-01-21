@@ -1,0 +1,14 @@
+C:\Users\ramya_mantripragada\source\repos\dot_net-epam-team\team-4\ramya\helloFromRamya\bin\Debug\net8.0\helloFromRamya.exe
+C:\Users\ramya_mantripragada\source\repos\dot_net-epam-team\team-4\ramya\helloFromRamya\bin\Debug\net8.0\helloFromRamya.deps.json
+C:\Users\ramya_mantripragada\source\repos\dot_net-epam-team\team-4\ramya\helloFromRamya\bin\Debug\net8.0\helloFromRamya.runtimeconfig.json
+C:\Users\ramya_mantripragada\source\repos\dot_net-epam-team\team-4\ramya\helloFromRamya\bin\Debug\net8.0\helloFromRamya.dll
+C:\Users\ramya_mantripragada\source\repos\dot_net-epam-team\team-4\ramya\helloFromRamya\bin\Debug\net8.0\helloFromRamya.pdb
+C:\Users\ramya_mantripragada\source\repos\dot_net-epam-team\team-4\ramya\helloFromRamya\obj\Debug\net8.0\helloFromRamya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya_mantripragada\source\repos\dot_net-epam-team\team-4\ramya\helloFromRamya\obj\Debug\net8.0\helloFromRamya.AssemblyInfoInputs.cache
+C:\Users\ramya_mantripragada\source\repos\dot_net-epam-team\team-4\ramya\helloFromRamya\obj\Debug\net8.0\helloFromRamya.AssemblyInfo.cs
+C:\Users\ramya_mantripragada\source\repos\dot_net-epam-team\team-4\ramya\helloFromRamya\obj\Debug\net8.0\helloFromRamya.csproj.CoreCompileInputs.cache
+C:\Users\ramya_mantripragada\source\repos\dot_net-epam-team\team-4\ramya\helloFromRamya\obj\Debug\net8.0\helloFromRamya.dll
+C:\Users\ramya_mantripragada\source\repos\dot_net-epam-team\team-4\ramya\helloFromRamya\obj\Debug\net8.0\refint\helloFromRamya.dll
+C:\Users\ramya_mantripragada\source\repos\dot_net-epam-team\team-4\ramya\helloFromRamya\obj\Debug\net8.0\helloFromRamya.pdb
+C:\Users\ramya_mantripragada\source\repos\dot_net-epam-team\team-4\ramya\helloFromRamya\obj\Debug\net8.0\helloFromRamya.genruntimeconfig.cache
+C:\Users\ramya_mantripragada\source\repos\dot_net-epam-team\team-4\ramya\helloFromRamya\obj\Debug\net8.0\ref\helloFromRamya.dll
