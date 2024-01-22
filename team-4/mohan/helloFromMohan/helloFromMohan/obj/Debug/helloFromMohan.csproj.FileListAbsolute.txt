@@ -1,0 +1,7 @@
+C:\Users\biswamohan_dwari\Desktop\test\dot_net-epam-team\team-4\mohan\helloFromMohan\helloFromMohan\bin\Debug\helloFromMohan.exe.config
+C:\Users\biswamohan_dwari\Desktop\test\dot_net-epam-team\team-4\mohan\helloFromMohan\helloFromMohan\bin\Debug\helloFromMohan.exe
+C:\Users\biswamohan_dwari\Desktop\test\dot_net-epam-team\team-4\mohan\helloFromMohan\helloFromMohan\bin\Debug\helloFromMohan.pdb
+C:\Users\biswamohan_dwari\Desktop\test\dot_net-epam-team\team-4\mohan\helloFromMohan\helloFromMohan\obj\Debug\helloFromMohan.csproj.AssemblyReference.cache
+C:\Users\biswamohan_dwari\Desktop\test\dot_net-epam-team\team-4\mohan\helloFromMohan\helloFromMohan\obj\Debug\helloFromMohan.csproj.CoreCompileInputs.cache
+C:\Users\biswamohan_dwari\Desktop\test\dot_net-epam-team\team-4\mohan\helloFromMohan\helloFromMohan\obj\Debug\helloFromMohan.exe
+C:\Users\biswamohan_dwari\Desktop\test\dot_net-epam-team\team-4\mohan\helloFromMohan\helloFromMohan\obj\Debug\helloFromMohan.pdb
