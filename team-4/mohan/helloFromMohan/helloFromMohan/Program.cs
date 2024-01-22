@@ -11,6 +11,7 @@ namespace helloFromMohan
         static void Main(string[] args)
         {
             Console.WriteLine("Hello from Mohan");
+            Console.WriteLine("Hello from public EPAM!");
         }
     }
 }
